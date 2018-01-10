@@ -1,0 +1,75 @@
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                      .COOOOOOC.                                                                      
+                                                                  cOOOOC:  . :COOOOC                                                                  
+                                                                .OOo. .    .      COO.                                                                
+                                                             .oOOO: .  .cocccc:  . .OOOC:                                                             
+                                                         cOOOOO:   ..oooocccccccc:    .COOOOo                                                         
+                                                     cOOOOC:  .    coooooooocccccc:  .  . .oOOOOC.                                                    
+                                                 oOOOOo.       .:cooooooooooccccccccc:..  . .  cOOOOC:                                                
+                                            :COOOO:        :ooo..oooocccccccccccccccc..ccc:..   .  :COOOOc                                            
+                                         oOOOC:  ..   .cooooo. :oooooooooocooooooooooc: .cccooc.   .   .oOOOC                                         
+                                        OOO . . . .coooooooc .cooc  ::.     .  ..c  :ooc  :ccoooooo:    .  oOO.                                       
+                                       cOO. . :ooooooooc.   .ooo:..OOOO88cOOoOOOOOOc .ooc.   .:ooooooooc .  cOO                                       
+                                       cOc . :oooooc.      .oooo.:Oc .oC@@c @OCo: cOc cocc:  .    :oooooo   cOO                                       
+                                       OOc . :ooo: .       ooooo .COCccc .C@: :ccCOO .:occc   .  . . oooo   .OO                                       
+                                       OOc . cooo.       .:ooooo.    :@@8O  O8@@c . . :occc:  . . .  oooo  . OO:                                      
+                                       OO. . oooo      . .oooooo      C@@@@@@@@8  . . oocc:c   . .   oooo  . OOc                                      
+                                      :OO. . oooo    . . ..   .oc    . .oooc:C   . . :o.  .    . .   :ooo.. .oOc                                      
+                                      cOO . .oooo    . . .  .. .cc . . CO@@@@@8  .  :o   . .  . .   .:ooo: . cOo                                      
+                                      cOO. .:oooo  . . .:cccc::cccc .  cooooooc .  :cccc:cccc:..   . :ooo:. .cOO                                      
+                                      oOo . :ooo:. . .oooocccccccoocc:  .   .  ..cccoocccccccccc.   ..oooc. .cOO                                      
+                                      OOc. .:ooo:. . oooo:oocccccccooocc.   . :ccooocccccccc:cccc.  . oooo . .OO                                      
+                                      OOc . cooo:. .coooo::occccccc .occc:  .cccoc :ccccccc:.ccccc  . oooo .  OOc                                     
+                                      OOc . oooo.  .ooooo: oooooooooo:  :.  .:. .cccccccccc :ccccc.  .oooo.  .OOc                                     
+                                      OO. . oooo  .:ooooc: oooooooooooooo. . :ccccccccooccc::cccooo  .oooo: . OOc                                     
+                                     .OO . .oooo  .oooooc:.cooooooooooooooo:cccccccoooooccc::cooooo:  :ooo:   COo                                     
+                                     cOO . .oooo. ooooooc::coooooooooooooooooooooooooooccccc.ccooooo  :ooo: . cOO                                     
+                                     cOO. ..ooo: :ooooooc::coooooooooooooooooooooooooooccccc.cccoooo: .coo:.  cOO                                     
+                                     cOO . :ooc. oooooocc ccoooooooooooooooooooooooooooccccc :ccooooo. :coo   cOO                                     
+                                     OOo. .:oc: coooooocc ccoooooooooooooooooooooooooocccccc .cccooooo  cco   .OO                                     
+                                     OOc . :cc. oooooooc: ccooooooooooooooooooooooooooccccc. .:cccoooo...cc  . OO                                     
+                                     OOc . :c:.:oooooocc. cccooocccccccooooooooooooooccccc:    :ccooooc .cc   .OOc                                    
+                                     OOc . cc. :oooooccc  :cccooooocccccccccccooooocccccc:   .  .ccoooc .cc    OOc                                    
+                                     OO..  cc:.:oooocooo:   :ccccoooooccccccccccccccccc: .   .:ccccccc: :cc.  .OOc                                    
+                                    .OO . .cc: .coooooooc       .:cccccccccccccccccc:. . .   ccccoooocc .cc:   COc                                    
+                                    cOO .      ccoooooocc:.cccccccccccccccccccccccccccccccc:. .cccooccc .cc:   oOO                                    
+                                    cOO.    .. ccoooooccc..ccccccccccccccccccccccoooooooccccc.. .cccccc..cc:   cOO                                    
+                                    cOo .  .cc :::oooooo:.    .::cccccccccccccccccccoooooooccc.   :ccc. ccc:  .cOO                                    
+                                    cOc  . :cc: .ccooooo: oooooc::    ..::ccccccccoooooooooooc:   .cc.  cccc . cOO                                    
+                                    OOc  . cc:.: ccoooooo o:..::ooooooooo::      .::ccooooooocc    .   .cccc . .OO                                    
+                                    OOc.  .ccc:c:.cc  ccc .oooooccooc:..:.ooooocooc :ccoooocccc:  .  . .cccc .  OO                                    
+                                    OO:   :ccccc:  cOOOOOC .ooc: ooo:oooocooo::ooo: cccoccccccc . . . . cccc .  OO:                                   
+                                    OO.   ccccccc. o@@@@@@@8..occoooooo. coooo.ooo .ccccccccc:. . . . . cccc.   OOc                                   
+                                    OO    .     .:  @@@@@@@@@@c oc:.oooo:oooooooo: :ccocc: . . . . . .  :ccc .  OOc                                   
+                                   :OO  . ..    .   8@@@@@@@Cc@O cccco::cooco occ .ccooooooooc . . .    :ccc. . oOc                                   
+                                   cOO    cccc.      .O8OOCCc .:o  .::ccccccccccc :ccooooocccc:. .     .:ccc:.  cOc                                   
+                                 oOOOO    :.  .    .     . . .       .        .   . . . .     . .    . . ..:..  cOOOOOOOOOO                           
+                               COOC .         .  .      ..CoCoCOOO   .  .    O@@@@@@@c .    .Cc.    . . .    .   .  .   cOO                           
+                             COOC  . :@@@@@@@@8. .     :@@@@@@@@@@@8:   . .@@@@@@@@@@@@o  . .@@@@@@C . @@@ :@@@8CCo:    OOc                           
+                           cOOC    c@@@@@@@@@@@@@O   :@@@@@@@@@@@@@@@@. .@@@@@@@@@@@@@@@@C . o@@@@@@  o@@@o. o@@@@@@.  :OO                            
+                           cOC   :@@@@@@@@@@@@@@@@.  C@@@@@@c  @@@@@@@. .@@@@@@@   @@@@@@C   .@@@@@@ .o@@@O  @@@@@@8 . oOO                            
+                           cOo   C@@@@@@.  o@@@@@@.  o@@@@@@cO@@@@@@@8. .@@@@@@@8  @@@@@@C   .@@@@@@o.@@@@@.:@@@@@@o. .OOc                            
+                           cOo . C@@@@@@. :@@@@@@@.  C@@@@@@c       . .           .@@@@@@C    o@@@@@8 @@@@@.C@@@@@@ . cOO                             
+                           cOC. .o@@@@@@. . .        C@@@@@@@@@@@@@:.          c888888@@@C    .@@@@@@C@@@@@C@@@@@@C . COc                             
+                           cOo.  o@8OOOO. . .occco. . .8@OOOOOOOOOOOOo      C@8OOOOOOOOC:.  . .O@OOOOOOOOOOOOOOOOO . .OO                              
+                           cOC   o@OOOOO..@@OOOOOO.  .  .c@8OOOOOOOOOO   8@OOOOOOOOOo .  . . . o@8OOOOOOOOOOOOOOOO . cOO                              
+                           cOo   C@OOOOO. @@OOOOOO.       . . .@@OOOOO   @@OOOOOC.  . . . . .   @@OOOOOO.O@OOOOOOc. .OOc                              
+                           cOo . C@OOOOO. . .O@OOO.  o@OOOOOC .@@OOOOO  .@@OOOOO .  . . . .     C@OOOOOO O@OOOOOO . :OO                               
+                           cOo. .o@OOOOO. .o@8OOOO.  o@OOOOO: .@@OOOOO  .@@OOOOOccccc::C8o      c@8OOOOC o@8OOOOC . oOO                               
+                           cOo.  o@OOOOOCOOOOOOOOO.  c@8OOOOOOOOOOOOO:  .@@OOOOOOOOOOOOOOc     . @@OOOOc c@8OOOOc.  OOc                               
+                           cOC   :@8OOOOOOOOOOOO:  . . :8@OOOOOOOOO. .  .@@OOOOOOOOOOOOOOc   .  .8@OOOO  .@@OOOO . cOO                                
+                           cOOc  . .O@8OOOOOOO:.  . .   .    .  . . . .   . .       .   .  .   oocco8OO  .O@OOOc . COc                                
+                             COOO: . . .     . . ::.  . .  . .   . . .  . .        .    . .  .   . . .   .       ..OO                                 
+                               .OOOC: .     ..cccccccc:. . . .   . .    .               .    ..:ccccccc:.        .cOO                                 
+                                  :OOOOOo   .  . .ccccccccc:.   . .     .                .:ccccccccc:    .   :OOOOOOc                                 
+                                       cOOOOC:   .    :cccccccccc:.     .           .:ccccccccc:. .      cOOOOC.                                      
+                                           cOOOOOc  .   . .:cccccccccc:.      .:cccccccccc:. .  .   :oOOOOC.                                          
+                                               cCOOOOo: . .  .  ::ccccccccccccccccccc:.   . . . cOOOOOc                                               
+                                                    cCOOOOCc      .   ::ccccccc:. .   .  .:oOOOOOc                                                    
+                                                         cOOOOOOc. .    .     .   .  cCOOOOOo.                                                        
+                                                              :COOOOOoc  .    .:cOOOOOOc                                                              
+                                                                    :oOOOOOOOOOOOc                                                                    
+                                                                                                                                                      
+                                                                                                                                                      
